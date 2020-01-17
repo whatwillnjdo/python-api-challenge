@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-WeatherPy2.ipynb
+WeatherPy_Misc.ipynb
 
 # Config py needs to be ignored
 config.py
